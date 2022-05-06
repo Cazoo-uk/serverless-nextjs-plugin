@@ -1,5 +1,5 @@
 {
-  "name": "serverless-nextjs-plugin",
+  "name": "@cazoo-uk/serverless-nextjs-plugin",
   "version": "2.4.4",
   "description": "A serverless plugin for nextjs 8 serverless target",
   "main": "index.js",
@@ -10,14 +10,14 @@
     "next",
     "api gateway"
   ],
-  "author": "Daniel Conde Marin <danielconde9@gmail.com>",
+  "author": "@Cazoo-uk/serverless-nextjs-plugin",
   "license": "MIT",
   "peerDependencies": {
     "next": "^8.0.0 || ^9.0.0 || ^10.0.0"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/danielcondemarin/serverless-nextjs-plugin.git",
+    "url": "git+https://github.com/Cazoo-uk/serverless-nextjs-plugin.git",
     "directory": "packages/serverless-nextjs-plugin"
   },
   "dependencies": {
