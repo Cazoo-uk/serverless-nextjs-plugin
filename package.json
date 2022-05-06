@@ -36,7 +36,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/danielcondemarin/serverless-nextjs-plugin.git"
+    "url": "git+https://github.com/Cazoo-uk/serverless-nextjs-plugin.git"
   },
   "dependencies": {
     "@mapbox/s3urls": "^1.5.3",
