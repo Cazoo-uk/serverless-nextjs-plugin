@@ -16,7 +16,7 @@
     "integration": "jest --config jest.integration.config.json --setupTestFrameworkScriptFile=./jest.integration.setup.js",
     "test": "jest"
   },
-  "author": "Daniel Conde Marin <danielconde9@gmail.com>",
+  "author": "@cazoo-uk/serverless-nextjs-plugin",
   "license": "ISC",
   "peerDependencies": {
     "next": "^8.0.0"
@@ -36,7 +36,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/danielcondemarin/serverless-nextjs-plugin.git"
+    "url": "git+https://github.com/Cazoo-uk/serverless-nextjs-plugin.git"
   },
   "dependencies": {
     "@mapbox/s3urls": "^1.5.3",
