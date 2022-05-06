@@ -6,3 +6,4 @@ examples/basic-next-serverless-app/build
 .next
 sls-next-build
 package-lock.json
+.idea
