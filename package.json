@@ -30,7 +30,8 @@
     "lodash.clonedeep": "^4.5.0",
     "lodash.merge": "^4.6.1",
     "mime": "^2.4.0",
-    "next-aws-lambda": "^2.3.4"
+    "next-aws-lambda": "^2.3.4",
+    "next-server": "^9.0.5"
   },
   "engines": {
     "node": ">=8.5.0"
